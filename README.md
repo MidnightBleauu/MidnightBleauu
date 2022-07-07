@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MidnightBleauu
-- 👀 I’m interesting in Full Stack Development & Currently learning javascript, and ruby on rails. 
-- 🌱 I’m currently learning data structures & algorithms, and trying to either get into SWE position or DevOps. 
-- 💞️ I’m looking to collaborate 
+- Hi, I’m @MidnightBleauu
+- I’m interesting in Full Stack Development & Currently learning javascript, and ruby on rails. 
+- I’m currently learning data structures & algorithms, and trying to either get into SWE position or DevOps. 
+- I’m looking to collaborate 
 - Currently a Technical Support Specialist 
 
 <!---
