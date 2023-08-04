@@ -3,6 +3,7 @@ Hello, I am Pramit
 - Interested in: Mechanical Keyboards, Fitness, Dev Ops, Software development 
 - Languages: Javascript | HTML | CSS | Python | x86 Assembly |
 - Frameworks: NodeJS | Azure AD | Express
+- Technologies: Git | GITHUB
  
 <!---
 MidnightBleauu/MidnightBleauu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
