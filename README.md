@@ -1,4 +1,4 @@
-    LanguagesLanguages: Python, C++/C, JavaScript, Java, R, PowerShell, Bash, R
+    Languages: Python, C++/C, JavaScript, Java, R, PowerShell, Bash, R
     Cloud & Infrastructure: Microsoft Azure, AWS Cloud, CI/CD, Docker, Entra ID/Azure AD
     Frameworks & Systems: Linux, Node.js, MySQL, Flask, MongoDB,
     Developer Tools: GitHub, Git, KACE, Wireshark, REST API, Docker, Power Automate, AWS 
