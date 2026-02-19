@@ -1,7 +1,8 @@
-    Languages: JavaScript | HTML | CSS | Python | x86 Assembly | C++ | Java | R | PowerShell | Bash
-    Frameworks & Technologies: Node.js | Azure AD | Express | Flask | MongoDB | MySQL | REST API | OpenCL | OpenMP
-    Developer Tools: Git | GitHub | Wireshark | Qualys | KACE | PowerBI
-    Other Skills: System Administration | Networking | Operating Systems | Version Control | Databases | Data Analysis
+    LanguagesLanguages: Python, C++/C, JavaScript, Java, R, PowerShell, Bash, R
+    Cloud & Infrastructure: Microsoft Azure, AWS Cloud, CI/CD, Docker, Entra ID/Azure AD
+    Frameworks & Systems: Linux, Node.js, MySQL, Flask, MongoDB,
+    Developer Tools: GitHub, Git, KACE, Wireshark, REST API, Docker, Power Automate, AWS 
+    Other Skills: System Administration | Networking | Operating Systems | Version Control | Databases | Data Analysise
 <!---
 MidnightBleauu/MidnightBleauu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
