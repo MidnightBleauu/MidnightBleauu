@@ -1,34 +1,37 @@
 # Hi, I'm Pramit Patel 👋
 
-### System Administrator & B.S. in Computer Science Student
-I specialize in Identity & Access Management (IAM), Cloud Security infrastructure, and enterprise automation. My background combines deep, hands-on infrastructure operations with modern computer science principles to build secure, resilient environments.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3670A0&width=500&lines=System+Administrator;B.S.+Computer+Science+Student;Identity+%26+Access+Management;Cloud+Infrastructure+Security)
+
+I combine hands-on enterprise infrastructure operations with modern computer science principles to build secure, resilient cloud and identity environments.
 
 ---
 
-### 🧰 Technical Skill Set & InfoSec Domains
+### 🧰 Tech Stack & Tools
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,powershell,python,bash,docker,linux,githubactions,mysql,mongodb,git,windows,md)](https://skillicons.dev)
 
-| Domain | Technologies & Frameworks |
+---
+
+### 🛡️ Enterprise Core Competencies
+
+| Domain | Specialization & Focus Area |
 | :--- | :--- |
 | **Cloud Security & Identity** | Microsoft Azure, Entra ID, Azure AD, RBAC, Conditional Access, Zero Trust, AWS |
 | **Identity & Endpoint Management** | Microsoft Intune, JAMF, Autopilot, Active Directory, Group Policy, IAM, Duo Security |
-| **Automation & Scripting** | PowerShell, Python, Bash, REST APIs, GitHub Actions |
-| **SecOps & Tools** | Microsoft Sentinel, Defender for Cloud, QUALYS, Docker, Linux |
+| **SecOps & Automation** | Microsoft Sentinel, Defender for Cloud, QUALYS, REST APIs, Shell Scripting |
 
 ---
 
-### 📈 Certifications & Professional Focus
-* **B.S. in Computer Science** — Oregon State University (Expected Dec 2026)
+### 📈 Certifications & Academic Milestones
+* **B.S. in Computer Science** — Oregon State University *(Expected Dec 2026)*
 * **B.A. in Psychology** — Carleton University
 * **In Progress:** Microsoft Certified: Azure Administrator Associate (AZ-104)
-* **In Progress:** Microsoft Identity and Access Administrator (SC-300 | Expected June 2026)
+* **In Progress:** Microsoft Identity and Access Administrator (SC-300 | *Expected June 2026*)
 
 ---
 
-### 🛡️ Enterprise Security Competencies
-* **Identity Lifecycle Management:** Provisioning, access reviews, and role assignments across large-scale enterprise user domains.
-* **Endpoint Hardening:** Designing zero-touch configuration workflows and provisioning profiles to enforce standardized baseline security.
-* **Access Control Integrity:** Implementing Conditional Access policies, multi-factor authentication (MFA), and identity federation across cloud and on-premises environments.
+### 🎯 Portfolio Strategy & Compliance Note
+> **Enterprise Compliance Statement:** As an active IT professional handling corporate identity directories and secure infrastructure pipelines, my public repositories intentionally exclude raw production code, scripts, or private repository mirrors to maintain strict intellectual property boundaries and data privacy standards. This profile functions as an architectural verification dashboard mapping out my engineering capabilities, governance mastery, and technical design patterns.
 
 ---
 
-📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/ppatel95) | pramit.patel@alumni.carleton.ca
+📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/ppatel95) 
