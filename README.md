@@ -36,4 +36,4 @@ A collection of production-grade PowerShell, Python, and Bash scripts engineered
 
 ---
 
-📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/ppatel95) | pramit.patel@alumni.carleton.ca
+📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/ppatel95) |
