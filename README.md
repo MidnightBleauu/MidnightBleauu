@@ -1,6 +1,6 @@
 # Pramit Patel
 
-### IT Professional & System Administrator · B.S. Computer Science Student
+### IT Professional & System Administrator · B.S. Computer Science 
 Building secure, scalable, and automated cloud and identity ecosystems.
 
 [LinkedIn](https://www.linkedin.com/in/ppatel95) / [Email](mailto:pramit.patel@alumni.carleton.ca)
